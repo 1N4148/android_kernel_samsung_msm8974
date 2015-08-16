@@ -31,7 +31,6 @@ extern int poweroff_charging;
 
 #include <linux/input.h>
 #include <linux/earlysuspend.h>
-#include <linux/powersuspend.h>
 #include <linux/mutex.h>
 #include <linux/wakelock.h>
 
